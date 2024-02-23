@@ -7,13 +7,13 @@ With ZaapIT every list and tab can have mass edit, mass update, clone, mass dele
 
 **Highlights** 
 
-1. Manage your records in bulk: Mass Update, mass transfer, Mass Edit. Mass Clone / Duplicate, Mass Create, Mass Emails, Mass inline editing, Mass Delete, Mass Merge, mass create tasks, ?nd replace & calculate, mass+auto convert leads, Import + dedupe, AI
+1. Perform bulk actions effortlessly: Mass Update, Mass Transfer, Mass Edit, Mass Clone/Duplicate, Mass Create, Mass Emails, Mass Inline Editing, Mass Delete, Mass Merge, Mass Create Tasks, Find and Replace & Calculate, Mass Auto-Convert Leads, Import + Dedupe, AI Integration.
 
-2. Find the relevant records with ease: Smart search, multi sorts, ?lters, multi views/sheets,cross-object Filters, Advanced sub-object 8. hierarchy filltering. Find/ Detect Duplicates +  Smart column filters. Spreadsheet q excel style data managment. Place records on a Map.
+2. Find the relevant records with ease: Smart search, multi sorts, filtrs, multi views/sheets,cross-object Filters, Advanced sub-object 8. hierarchy filltering. Find/ Detect Duplicates +  Smart column filters. Spreadsheet / excel style data managment. 
 
-3. Customize any list / grid / related lists - change colums + multi-sorting + cross object columns + other advacned features
+3. Tailor your view with ease – change columns, enable multi-sorting, and leverage cross-object columns. Unlock insights with dynamic charts and enhance readability with customizable coloring. Achieve granular organization through multi-level grouping. Explore a range of advanced features to personalize your experience. Geographically place records on a map for spatial insights.
 
-![ZaapiT for Salesforce - deduplicate your records!](/screenshots/merge_job_custom_dedupe.jpg "Salesforce native Data Cleansing app")
+![ZaapiT for Salesforce - Smart lists and grids!](/screenshots/manage_data_hero_laptop_smart_tables-feb-2023-v3_1200.jpg "Salesforce smart grids app")
 
 Clean your Salesforce's database with Dedup-Manager - native tool:
 
