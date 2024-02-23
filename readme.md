@@ -15,9 +15,9 @@ With ZaapIT every list and tab can have mass edit, mass update, clone, mass dele
 
 ![ZaapiT for Salesforce - Smart lists and grids!](/screenshots/manage_data_hero_laptop_smart_tables-feb-2023-v3_1200.jpg "Salesforce smart grids app")
 
-Clean your Salesforce's database with Dedup-Manager - native tool:
 
-# Main Features:
+
+# Main Features - ZaapIT for Salesforce:
 
 ✔ Mass Update - Update unlimited # of records in one click (aka bulk update)
 
