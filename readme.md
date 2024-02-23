@@ -2,7 +2,7 @@
 
 With ZaapIT every list and tab can have mass edit, mass update, clone, mass delete lEmails, mass convert, mass merge, styling, groupings, export, import, charts, maps, search, sorts, drop-down ?lters, etc. Works with related lists, tabs and reports 
 
-**The reachest smart list add-on for salesforce, [install zaapit for salesforce now ](https://www.zaapit.com/page/Install-apps)**
+**Install in Salesforce: [open setup page ](https://www.zaapit.com/page/Install-apps)**
 
 
 **Highlights** 
