@@ -42,12 +42,10 @@ Video Guides -  [zaapit video guides](http://www.zaapit.com/page/Videos)
 
 # More screenshots:
 
-![Overview tab](/screenshots/dedup-global-overview.jpg "Overview tab")
-![Import](/screenshots/advanced-import36.jpg.jpg "import")
-![Smart lists](/screenshots/smart-tables-lightning2v1.jpg "Smart lists")
-![Smart tabs overview](/screenshots/manage_data_hero_laptop_smart_tables-feb-2023-v3_1200.jpg "Smart tabs overview")
+![Mass inline edit](/screenshots/smart-tables-lightning2v1.jpg "Mass inline edit")
+![Mass Convert Leads](/screenshots/mass_convert_leadsv1.jpg "Mass Convert Leads")
 ![Smart Mass Update](/screenshots/mass_update_26022023.jpg "Smart Mass Update")
 ![Smart Mass Update](/screenshots/inline_edit_for_related_list_sep_2019.jpg "Smart Related Lists")
-![Smart tabs inline edit](/screenshots/smart-tables-lightning2v1.jpg "Smart tabs inline edit")
-
+![Smart tabs inline edit](/screenshots/map_anything_jun_2019.jpg "Smart Maps")
+![Import](/screenshots/advanced-import36.jpg.jpg "import")
 Mmade by [ZaapIT LTD](http://www.zaapit.com)
